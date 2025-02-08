@@ -1,0 +1,12 @@
+E:\BBERPProd\BBERP\bberp\bin\Release\netcoreapp2.0\bberp.deps.json
+E:\BBERPProd\BBERP\bberp\bin\Release\netcoreapp2.0\bberp.runtimeconfig.json
+E:\BBERPProd\BBERP\bberp\bin\Release\netcoreapp2.0\bberp.runtimeconfig.dev.json
+E:\BBERPProd\BBERP\bberp\bin\Release\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP\bberp\bin\Release\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.csprojAssemblyReference.cache
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.csproj.CoreCompileInputs.cache
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.AssemblyInfoInputs.cache
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.AssemblyInfo.cs
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP\bberp\obj\Release\netcoreapp2.0\bberp.pdb

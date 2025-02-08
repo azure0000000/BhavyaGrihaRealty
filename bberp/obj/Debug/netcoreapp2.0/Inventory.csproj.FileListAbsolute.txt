@@ -1,0 +1,11 @@
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory.deps.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory.runtimeconfig.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory.runtimeconfig.dev.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory.dll
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory.pdb
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory.csproj.CoreCompileInputs.cache
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory.AssemblyInfoInputs.cache
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory.AssemblyInfo.cs
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory.dll
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory.pdb

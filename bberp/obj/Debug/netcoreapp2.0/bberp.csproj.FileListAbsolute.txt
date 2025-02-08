@@ -1,0 +1,52 @@
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bberp.deps.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.dev.json
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bberp.dll
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bberp.pdb
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\bberp.csproj.CoreCompileInputs.cache
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\bberp.AssemblyInfoInputs.cache
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\bberp.AssemblyInfo.cs
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\bberp.dll
+E:\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.deps.json
+E:\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.json
+E:\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.dev.json
+E:\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.dll
+E:\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.csprojAssemblyReference.cache
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.csproj.CoreCompileInputs.cache
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfoInputs.cache
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfo.cs
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.dll
+E:\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.deps.json
+E:\BBERPProd\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.json
+E:\BBERPProd\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.dev.json
+E:\BBERPProd\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP\bberp\bin\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.csproj.CoreCompileInputs.cache
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfoInputs.cache
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfo.cs
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP\bberp\obj\Debug\netcoreapp2.0\bberp.csprojAssemblyReference.cache
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\appsettings.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bundleconfig.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bberp.deps.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bberp.runtimeconfig.dev.json
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP - RealEstate\bberp\bin\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.csproj.AssemblyReference.cache
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfoInputs.cache
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.AssemblyInfo.cs
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.csproj.CoreCompileInputs.cache
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.dll
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.pdb
+E:\BBERPProd\BBERP - RealEstate\bberp\obj\Debug\netcoreapp2.0\bberp.genruntimeconfig.cache
