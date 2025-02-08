@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\bberp.csproj": {}
+    "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\bberp.csproj": {}
   },
   "projects": {
-    "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\bberp.csproj": {
+    "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\bberp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\bberp.csproj",
+        "projectUniqueName": "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\bberp.csproj",
         "projectName": "bberp",
-        "projectPath": "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\bberp.csproj",
+        "projectPath": "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\bberp.csproj",
         "packagesPath": "C:\\Users\\samar\\.nuget\\packages\\",
-        "outputPath": "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\obj\\",
+        "outputPath": "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

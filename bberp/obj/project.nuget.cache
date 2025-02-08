@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQ1FnZmgS4WMHdPA3O35J+u9jWSfUvW7giC8CDqTWPvKzTReWpNQB0Vy3aIwjTY1Y7wRcMSCoMyTm6o4/Nq36A==",
+  "dgSpecHash": "DVRLDY/Crso9F9E37BqYUsNfuhJszvJdqhi/Jz+RRYYKlTBhFkdfku74PlTS8Igv0ma7mrkZ9RsLSsnnIv2Z5g==",
   "success": true,
-  "projectFilePath": "E:\\BBERPProd\\BBERP - RealEstate\\bberp\\bberp.csproj",
+  "projectFilePath": "E:\\BBERPProd\\BhavyaGrihaRealty\\bberp\\bberp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
